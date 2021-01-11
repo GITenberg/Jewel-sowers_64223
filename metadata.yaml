@@ -1,11 +1,16 @@
 _repo: Jewel-sowers_64223
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 64223-h/images/cover.jpg
 creator:
   author:
     agent_name: Allonby, Edith
     gutenberg_agent_id: '52805'
     url: http://www.gutenberg.org/2009/agents/52805
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64223#Jewel-sowers
 gutenberg_issued: '2021-01-06'
 gutenberg_type: Text
 identifiers:
